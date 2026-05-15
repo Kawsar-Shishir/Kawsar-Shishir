@@ -2,7 +2,7 @@
 <h3 align="center">ETE Student | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Electronics+%26+Telecommunication+Engineering+Student;Full+Stack+Web+Developer;ASP.NET+MVC+%7C+SQL+Server+%7C+Docker;Passionate+about+Technology+and+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Electronics+%26+Telecommunication+Engineering+Student;AI+ML+ENTHUSIAST;+%7C+SQL+Server+%7C+Docker;Passionate+about+Technology+and+Innovation" />
 </p>
 
 ---
@@ -30,15 +30,16 @@
 </a>
 
 <a href="https://www.linkedin.com/in/kawsar-mahmud-shishir-008838282?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
-<img align="center" src="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/kawsar-mahmud-shishir-008838282?utm_source=share_via&utm_content=profile&utm_medium=member_android)" height="50" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
+
 
 <a href="https://www.facebook.com/kawsermahmud.shishir.7" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=facebook" height="50" />
 </a>
 
 <a href="https://kawsar-shishir.github.io/KawsarShishir.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit-My_Portfolio-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img align='center' src="https://img.shields.io/badge/Visit-My_Portfolio-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white" height="50" />
 </a>
 
 </p>
