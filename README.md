@@ -24,11 +24,6 @@
 
 # 🌐 Connect With Me
 
----
-
-# 🌐 Portfolio
----
-
 <p align="left">
 <a href="https://kawsar-shishir.github.io/KawsarShishir.github.io/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
