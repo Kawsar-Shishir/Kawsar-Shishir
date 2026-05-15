@@ -2,14 +2,14 @@
 <h3 align="center">ETE Student | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Electronics+%26+Telecom.+Engineering+Student;AI+%26+ML+ENTHUSIAST;+%7C+SQL+Server+%7C+Docker;Passionate+about+Technology+and+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Electronics+%26+Telecom.+Engineering+Student;AI+%26+ML+ENTHUSIAST;Passionate+about+Technology+and+Innovation" />
 </p>
 
 ---
 
 # 💫 About Me
 
-<img align="right" alt="Electronics" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJxY2R5MjF4YzJ2c2ZzMTR0bTVnOWJ2dGVzMXk0Y3V2cG5wN3J0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lFw057lAJQMwg0/giphy.gif">
+<img align="right" alt="Engineering" width="350" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 - 🎓 Studying **Electronics & Telecommunication Engineering (ETE)**  
 - 💻 Interested in **Machine Learning** 
