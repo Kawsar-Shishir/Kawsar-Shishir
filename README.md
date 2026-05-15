@@ -2,7 +2,7 @@
 <h3 align="center">ETE Student | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Electronics+%26+Telecom.+Engineering+Student;AI+%26+ML+ENTHUSIAST;Passionate+about+Technology+and+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Electronics+%26+Telecommunication+Engineering;AI+%26+ML+ENTHUSIAST;Passionate+about+Technology+and+Innovation" />
 </p>
 
 ---
