@@ -9,7 +9,7 @@
 
 # 💫 About Me
 
-<img align="right" alt="Embedded Systems" width="350" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+<img align="right" alt="Circuit Design" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 - 🎓 Studying **Electronics & Telecommunication Engineering (ETE)**  
 - 💻 Interested in **Machine Learning** 
