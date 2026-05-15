@@ -9,7 +9,7 @@
 
 # 💫 About Me
 
-<img align="right" alt="Engineering" width="350" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" alt="Embedded Systems" width="350" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 - 🎓 Studying **Electronics & Telecommunication Engineering (ETE)**  
 - 💻 Interested in **Machine Learning** 
@@ -50,8 +50,6 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=numpy" />
-<img src="https://skillicons.dev/icons?i=matplotlib" />
 <img src="https://skillicons.dev/icons?i=matlab" />
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
