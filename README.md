@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kawsar Shishir</h1>
-<h3 align="center">CSE Student at CUET | Aspiring Full Stack Developer | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Kawsar Mahmud Shishir</h1>
+<h3 align="center">ETE Student | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;ASP.NET+MVC+Developer;SQL+Server+%7C+Docker+%7C+C%23;Passionate+about+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Electronics+%26+Telecommunication+Engineering+Student;Full+Stack+Web+Developer;ASP.NET+MVC+%7C+SQL+Server+%7C+Docker;Passionate+about+Technology+and+Innovation" />
 </p>
 
 ---
@@ -11,12 +11,12 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 Studying Computer Science & Engineering at CUET  
-- 💻 Currently learning **ASP.NET MVC**, **Docker**, and **SQL Server**  
-- 🌱 Exploring **Backend Development** and **System Design**  
-- 🚀 Interested in Full Stack Web Development  
-- 🛠 Love building practical software projects  
-- 📫 Reach me at: **your-email@example.com**
+- 🎓 Studying **Electronics & Telecommunication Engineering (ETE)**  
+- 💻 Interested in **Machine Learning** 
+- 🌱 Currently learning **Machine Learning**, **VLSI**  
+- ⚡ Passionate about building practical and impactful projects  
+- 🛠 Love learning new technologies and solving problems  
+- 📫 Reach me at: **kawsermahmudshishir@gmail.com**
 
 <br><br>
 
@@ -24,18 +24,28 @@
 
 # 🌐 Connect With Me
 
+---
+
+# 🌐 Portfolio
+---
+
 <p align="left">
-<a href="https://github.com/Kawsar-Shishir" target="blank">
+<a href="https://kawsar-shishir.github.io/KawsarShishir.github.io/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
 <a href="https://www.linkedin.com/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<img align="center" src="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/kawsar-mahmud-shishir-008838282?utm_source=share_via&utm_content=profile&utm_medium=member_android)" height="50" />
 </a>
 
-<a href="https://facebook.com/" target="blank">
+<a href="[https://facebook.com/](https://www.facebook.com/kawsermahmud.shishir.7)" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=facebook" height="50" />
 </a>
+
+<a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Visit-My_Portfolio-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 </p>
 
 ---
@@ -43,19 +53,17 @@
 # 💻 Tech Stack
 
 <p align="center">
-
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=numpy" />
+<img src="https://skillicons.dev/icons?i=matplotlib" />
+<img src="https://skillicons.dev/icons?i=matlab" />
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-<img src="https://skillicons.dev/icons?i=cs" />
-<img src="https://skillicons.dev/icons?i=dotnet" />
-<img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=visualstudio" />
 
 </p>
 
@@ -70,21 +78,6 @@
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawsar-Shishir&theme=tokyonight&hide_border=false&layout=compact" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kawsar-Shishir&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
 
 # 🔥 Contribution Graph
 
@@ -98,19 +91,15 @@
 
 ### 🚌 CUET Bus Booking System
 - ASP.NET MVC based transport management system  
-- Features seat booking, admin panel, and database integration  
+- Includes seat booking, admin panel, and SQL Server integration  
 
 ### 🏥 Health Monitoring System
-- Tracks and manages patient health data  
-- Designed for efficient healthcare monitoring  
+- Smart health monitoring and patient data management system  
+- Designed for efficient healthcare tracking and analysis
 
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+### 🚌 Smart Elevator System
+- A smart elevator system that controls elevator movement between multiple floors
+- Includes accurate floor detection,emergency handling and real-time display
 
 ---
 
@@ -123,5 +112,5 @@
 ---
 
 <p align="center">
-✨ “Code. Learn. Build. Improve.” ✨
+✨ “Learn Continuously. Build Passionately. Improve Daily” ✨
 </p>
