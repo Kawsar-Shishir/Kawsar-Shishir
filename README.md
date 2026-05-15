@@ -9,7 +9,7 @@
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Electronics" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJxY2R5MjF4YzJ2c2ZzMTR0bTVnOWJ2dGVzMXk0Y3V2cG5wN3J0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lFw057lAJQMwg0/giphy.gif">
 
 - 🎓 Studying **Electronics & Telecommunication Engineering (ETE)**  
 - 💻 Interested in **Machine Learning** 
@@ -35,7 +35,7 @@
 
 
 <a href="https://www.facebook.com/kawsermahmud.shishir.7" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=facebook" height="50" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="50" width="50" />
 </a>
 
 <a href="https://kawsar-shishir.github.io/KawsarShishir.github.io/" target="_blank">
